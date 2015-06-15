@@ -3,7 +3,7 @@ Course Project
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-**Links to the Shiny App and the Slidify Presentation":
+**Links to the Shiny App and the Slidify Presentation**:
 
 <a href="brooke29.shinyapps.io/Project">
 Shiny App</a>
