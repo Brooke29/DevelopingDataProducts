@@ -5,7 +5,7 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
 
 **Links to the Shiny App and the Slidify Presentation**:
 
-<a href="brooke29.shinyapps.io/Project">
+<a href="https://brooke29.shinyapps.io/Project">
 Shiny App</a>
 
 <a href="http://rpubs.com/Brooke29/86133">Slidify Presentation on RPubs</a>
